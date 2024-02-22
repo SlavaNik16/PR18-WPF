@@ -1,0 +1,22 @@
+﻿<Window x:Class="PR18_4_Nikolaev.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR18_4_Nikolaev"
+        mc:Ignorable="d"
+        Title="Рисование" Height="422" Width="770">
+    <Grid Background="LightSteelBlue">
+        <InkCanvas x:Name="inkCanvas" Margin="10" Height="300" Width="500" 
+                   HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="Clear" Content="Очистить" Margin="44,340,0,0" Width="101" Height="35"
+                HorizontalAlignment="Left" VerticalAlignment="Top" Click="Clear_Click"/>
+        <Button x:Name="Save" Content="Сохранить" Margin="200,340,0,0" Width="101" Height="35"
+                HorizontalAlignment="Left" VerticalAlignment="Top" Click="Save_Click"/>
+        <Button x:Name="Close" Content="Закрыть" Margin="353,340,0,0" Width="101" Height="35"
+                HorizontalAlignment="Left" VerticalAlignment="Top" Click="Close_Click"/>
+        <Slider HorizontalAlignment="Left" Margin="541,46,0,0" VerticalAlignment="Top" Width="120"  />
+        <Slider HorizontalAlignment="Left" Margin="541,87,0,0" VerticalAlignment="Top" Width="120"/>
+        <Slider HorizontalAlignment="Left" Margin="541,130,0,0" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

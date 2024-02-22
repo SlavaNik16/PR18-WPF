@@ -1,0 +1,42 @@
+﻿<Window x:Class="PR18_2_Nikolaev.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR18_2_Nikolaev"
+        mc:Ignorable="d"
+        Title="Объект Expander" Height="450" Width="800">
+    <Grid>
+        <Expander Header="Кнопка">
+            <Button Width="500px" Height="60px"  HorizontalAlignment="Center" VerticalAlignment="Top" >
+                    <Button.Content>
+                    <StackPanel Orientation="Horizontal">
+                        <Polygon Points="100,25,125,0,200,25,125,50" Fill="LightSteelBlue" />
+                        <Polygon Points="100,25,75,0,0,25,75,50" Fill="White" Margin="-200,0,0,0"/>
+                    </StackPanel>
+                    </Button.Content>
+                </Button>
+        </Expander>
+        <Expander Header="свойство Header" Margin="0,80,0,0">
+            <TextBlock TextWrapping="Wrap" Text="Меню в WPF представлено классом Menu, который может включать в себя набор объектов
+MenuItem. Каждый объект MenuItem в свою очередь может включать в себя другие объекты
+MenuItem и объекты Separator (разделитель), а также другие элементы управления, например
+зависимые (RadioButton) и независимые (CheckBox) переключатели:. Знак подчеркивания в
+названиях пунктов меню указывает «горячие» клавиши для доступа к этим пунктам меню
+Панель инструментов
+Панель инструментов в WPF представлена классом ToolBar, который в качестве содержимого
+может включать в себя коллекцию любых других элементов. Панели инструментов обычно
+используются как альтернативный способ активизации пунктов меню.
+Строка состояния
+Строка состояния в WPF представлена классом StatusBar, который в качестве содержимого
+может включать в себя коллекцию любых других элементов, в том числе StatusBarItem.
+InkCanvas
+Элемент управления InkCanvas позволяет рисовать и редактировать линии с помощью мыши или
+пера. Размеры элемента управления можно задать с помощью свойств Width и Height. Свойства
+пера (цвет, ширину и высоту) можно настроить с помощью свойства DefaultDrawingAttributes:
+Компьютерная графика в отличие от бумажной позволяет довольно просто перемещать объекты.
+Особенно, если работа ведется с векторными объектами или с отдельными слоями растрового
+изображения."/>
+        </Expander>
+    </Grid>
+</Window>

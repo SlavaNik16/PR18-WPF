@@ -1,0 +1,16 @@
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\PR18_3_Nikolaev.csproj.AssemblyReference.cache
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\PR18_3_Nikolaev.csproj.SuggestedBindingRedirects.cache
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\App.g.cs
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\PR18_3_Nikolaev_MarkupCompile.cache
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\bin\Debug\PR18_3_Nikolaev.exe.config
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\bin\Debug\PR18_3_Nikolaev.exe
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\bin\Debug\PR18_3_Nikolaev.pdb
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\MainWindow.g.cs
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\PR18_3_Nikolaev_MarkupCompile.lref
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\MainWindow.baml
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\PR18_3_Nikolaev.g.resources
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\PR18_3_Nikolaev.Properties.Resources.resources
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\PR18_3_Nikolaev.csproj.GenerateResource.cache
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\PR18_3_Nikolaev.csproj.CoreCompileInputs.cache
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\PR18_3_Nikolaev.exe
+X:\МДК 01.01 Разработка программных модулей\ПР18-WPF\PR18_3_Nikolaev\obj\Debug\PR18_3_Nikolaev.pdb

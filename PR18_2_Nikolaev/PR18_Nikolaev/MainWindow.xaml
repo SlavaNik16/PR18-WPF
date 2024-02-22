@@ -1,0 +1,31 @@
+﻿<Window x:Class="PR18_Nikolaev.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR18_Nikolaev"
+        mc:Ignorable="d"
+        Title="Страница в элементе TabControl" Height="242" Width="513">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Вкладка 1">
+                <GroupBox Header="Группа элементов">
+                    <StackPanel>
+                        <CheckBox Content="Один" Margin="10,10,0,0"/>
+                        <CheckBox Content="Два"  Margin="10,10,0,0"/>
+                        <CheckBox Content="Три" Margin="10,10,0,0"/>
+                        <Button  Content="Ok" HorizontalAlignment="Center" VerticalAlignment="Center" Width="60px" Height="30px" Margin="0,10,0,0"/>
+                    </StackPanel>
+                </GroupBox>
+            </TabItem>
+            <TabItem>
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Вкладка 2"/>
+                        <Image Source="Phone.png" Width="50" Height="20"/>
+                    </StackPanel>
+                </TabItem.Header>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
